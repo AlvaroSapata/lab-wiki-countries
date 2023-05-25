@@ -1,7 +1,21 @@
 .App {
   text-align: center;
+  background-color: blanchedalmond;
+  color: black;
 }
 
 .Container{
   display: flex;
+}
+
+img{
+  width: 100px;
+}
+
+.CardContainer{
+  width: 200px;
+}
+
+.titulopais{
+  color: black;
 }
